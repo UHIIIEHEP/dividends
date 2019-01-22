@@ -1,0 +1,15 @@
+.input{
+    display: inline-block;
+    width: 150px;
+    background-color: #fbfafa;
+    font-size: 24px;
+    border-radius: 6px;
+
+    &:focus{
+        background-color: #bdb4b44f;
+    }
+    
+    &:hover{
+        background-color: aliceblue;
+    }
+}

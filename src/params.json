@@ -1,0 +1,56 @@
+{
+    "locale": ["ru", "en"],
+    "itemSelectCapital":[""],
+    "itemSelectContribution": [""],
+    "itemSelectYears": {
+        "ru": ["лет"],
+        "en": ["years"]
+    },
+    "itemSelectProcent": ["%"],
+    "startCapital":{
+        "ru": "Стартовый капитал",
+        "en": "Starting capital"
+    },
+    "yearsContribution":{
+        "ru": "Ежегодный взнос",
+        "en": "Annual contribution"
+    },
+    "period":{
+        "ru": "Период",
+        "en": "Period"
+    },
+    "procents":{
+        "ru": "Дивидендная доходность",
+        "en": "Dividend yield"
+    },
+    "buttonContent":{
+        "ru": "Рассчитать",
+        "en": "Calculate"
+    },
+    "years":{
+        "ru": "Год",
+        "en": "Years"
+    },
+    "capital":{
+        "ru": "Капитал",
+        "en": "Capital"
+    },
+    "dividends":{
+        "ru": "Дивиденды",
+        "en": "Dividends"
+    },
+    "unitK":{
+        "ru": "тыс.",
+        "en": "k"
+    },
+    "unitMLN":{
+        "ru": "млн.",
+        "en": "mln"
+    },
+    "unitMLRD":{
+        "ru": "млрд.",
+        "en": "mlrd"
+    }
+
+    
+}

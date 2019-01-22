@@ -1,0 +1,19 @@
+body{
+    background-color: #b3b3b3;
+}
+.App{
+    width: 900px;
+    transform-origin: center center;
+    position: relative;
+    margin: 60px auto;
+    padding: 10px;
+    height: 100%;
+    box-shadow: 0px 0px 19px 30px grey;
+    border-radius: 3px;
+    background-color: white;
+}
+
+.locale{
+    position: absolute;
+    left: 50px;
+}

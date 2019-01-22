@@ -1,0 +1,58 @@
+.oneYear,
+.title{
+    display: grid;
+    grid-template-columns: 1fr 2fr 3fr;
+    justify-items: left;
+    justify-content: start;
+    margin: 10px 5px;
+    font-size: 24px;
+    width: 100%;
+
+    &:hover{
+        background-color: beige;
+    }
+}
+
+
+
+.line-year,
+.line-capital,
+.line-dividends,
+.title-year,
+.title-capital,
+.title-dividends{
+        display: grid;
+        grid-template-columns: 3fr;
+        justify-items: left;
+    /*    outline: 1px solid green;*/
+
+  /*  width: 250px;*/
+    .label{
+        &-year{
+            width: auto;
+        }
+        &-capital{
+            width: auto;
+        }
+        &-dividends{
+            width: auto;
+        }
+    }
+
+    .value{
+        &-year{
+            width: 20px;
+        }
+        &-capital{
+            width: 150px;
+        }
+        &-dividends{
+            width: 150px;
+        }
+    }
+}
+
+.blockResult{
+    width: 70%;
+    margin: 0px auto;
+}
