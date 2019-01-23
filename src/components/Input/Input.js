@@ -9,8 +9,6 @@ class Input extends React.Component{
     
 
     render(){
-        
-        console.log("DEFAULT ",this.props.defValue )
         return(
             <input id={this.props.idElement} className='input' onChange={this.returnValue} placeholder={this.props.defValue}></input>
         )
